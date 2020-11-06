@@ -1,0 +1,1 @@
+Aquí colocaremos el diccionario de datos, i.e. el signficado de cada una de las variables en la base de datos original.
